@@ -28,3 +28,8 @@ as Writing File, Maintaining call logs, Sending Messages, Reading Files, Adjust 
 <p>                                 Thanking you                          </p>
 <p>                                -Narasimha Prasanna HN                 </p>
 <p>                                 BE, KSIT(VTU), Bangalore-50           </p>
+<p></p>
+<p>Replacement 3-08-16(DD:MM:YY)</p>
+<p>(Automatic call reciever works fine on only rooted devices, Hence a new Module with new functionality has been
+uploaded)</p>
+<p> Automatic Silent mode: This activity implements a background service, which when running controls the Ringing mode of a phone, i.e when the optical density is less than 1.0f, Phone audio is driven into silent mode automatically, (TOTAL SILENCE in case of 6.0 and above) and Normal state is replaced when service stops or Optical density is !1.0f, This feature really helps college students, Since the phone is set to silent mode automatically while the phone is in bag or in your pocket, and Phone state is set to Normal once you take out the phone</p>
